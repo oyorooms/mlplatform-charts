@@ -5,7 +5,7 @@
 Popular applications, provided by [Bitnami](https://bitnami.com), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
 
 ## TL;DR
-
+fgfgfgvbv
 ```bash
 $ helm repo add bitnami https://charts.bitnami.com/bitnami
 $ helm search repo bitnami
@@ -19,7 +19,7 @@ $ helm install my-release bitnami/<chart>
 ### Prerequisites 
 
 - Kubernetes 1.19+
-- Helm 3.2.0+
+- Helm 3.2.0+vb
 
 ### Setup a Kubernetes Cluster
 
